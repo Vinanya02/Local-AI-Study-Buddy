@@ -188,14 +188,6 @@ Recommended:
 
 ---
 
-# ⭐ GitHub Tips
-
-If you like this project:
-
-⭐ Star the repository
-🍴 Fork the project
-🛠️ Contribute improvements
-
 
 
 
