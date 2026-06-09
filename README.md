@@ -185,14 +185,6 @@ Recommended:
 * 16GB RAM
 * GPU support
 
----
-
-# 👨‍💻 Author
-
-Karanpreet Singh
-
-B.Tech CSE (AI Minor)
-Aspiring Data Scientist & AI Developer
 
 ---
 
