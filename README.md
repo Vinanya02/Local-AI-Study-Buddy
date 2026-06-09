@@ -196,8 +196,6 @@ If you like this project:
 🍴 Fork the project
 🛠️ Contribute improvements
 
----
 
-# 📜 License
 
-This project is licensed under the MIT License.
+
